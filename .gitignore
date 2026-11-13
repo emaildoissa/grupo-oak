@@ -1,0 +1,14 @@
+# Vercel
+.vercel
+
+# Dependências e ambiente
+node_modules/
+.env
+.env.*
+
+# Arquivos de sistema e editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
